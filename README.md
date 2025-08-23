@@ -2,7 +2,7 @@
 
 - a simple website 
 - links to recipes
-- will showcasen basic html
+- will showcase basic html
 - practice with git commits and local repo cloning
 
 # reflection and challenges
